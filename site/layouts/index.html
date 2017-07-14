@@ -1,5 +1,5 @@
 {{ partial "head" . }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/home/jumbotron.jpg" "title" "Drupal by day, JAMstack by night" "subtitle" "Chris Keller | Web Developer @ Commercial Progression") }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.hero.image "title" .Params.hero.headline "subtitle" .Params.hero.subtitle) }}
 
 {{ partial "footer" . }}

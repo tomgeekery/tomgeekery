@@ -1,7 +1,8 @@
 ---
 hero:
   headline: From Drupal to JAMStack
-  image: /img/pinnk.png
+  image: /img/jumbotron.jpg
   subtitle: Chris Keller | Web Developer @ Commercial Progression
 ---
+
 

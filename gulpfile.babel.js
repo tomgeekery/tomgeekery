@@ -12,6 +12,7 @@ import svgmin from "gulp-svgmin";
 import inject from "gulp-inject";
 import replace from "gulp-replace";
 import cssnano from "cssnano";
+import critical from "critical";
 
 const browserSync = BrowserSync.create();
 const hugoBin = `./bin/hugo.${process.platform === "win32" ? "exe" : process.platform}`;
@@ -90,6 +91,16 @@ gulp.task("server", ["hugo", "css", "js", "svg", "cms"], () => {
   gulp.watch("./src/cms/*", ["cms"]);
   gulp.watch("./site/static/img/icons/*.svg", ["svg"]);
   gulp.watch("./site/**/*", ["hugo"]);
+});
+
+gulp.task("critical", () => {
+  critical.generate({
+    inline: true,
+    base: 'dist/',
+    src: 'index.html',
+    dest: 'dist/critical.html',
+    minify: true
+  });
 });
 
 function buildSite(cb, options) {

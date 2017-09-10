@@ -1,8 +1,6 @@
 ---
 hero:
-  headline: From Drupal to JAMStack
+  headline: TomGeekery
   image: /img/jumbotron.jpg
-  subtitle: Chris Keller | Web Developer @ Commercial Progression
+  subtitle: Web Developer | Linux Distro Hopper
 ---
-
-

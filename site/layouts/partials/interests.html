@@ -1,9 +1,9 @@
 
-<div class="interests pv5 mw7 center">
-  <h2 class="tc pb4 f2">Current Obsessions</h2>
+<div class="interests pv5 mw7 center ph3 ph0-l">
+  <h2 class="tc pb4 f2-l f3">Current Obsessions</h2>
   <div class="flex-ns justify-between items-center">
     {{ range where .Data.Pages "Section" "interests" }}
-      <div class="w-25 tc ph3 raise">{{ .Render "component" }}</div>
+      <div class="w-25-l w-50 tc ph3 raise center mb4 mb0-l">{{ .Render "component" }}</div>
     {{ end }}
   </div>
 </div>

@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/tomgeekery
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tomgeekery.net
+  * I am tomgeekery (https://keybase.io/tomgeekery) on keybase.
+  * I have a public key ASD_KZ51VwSNMbIbzk5SYbwW3G5vohuv5o1Rz-9HIVEEHwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e11505fc065092ea1c5dddd970c2cf6a6a15cb17ad52878feaaf5b15a521317a0a",
+      "host": "keybase.io",
+      "kid": "0120ff299e7557048d31b21bce4e5261bc16dc6e6fa21bafe68d51cfef472151041f0a",
+      "uid": "1a0b08054b13b6828213c488613b1e00",
+      "username": "tomgeekery"
+    },
+    "merkle_root": {
+      "ctime": 1520983568,
+      "hash": "bd819650a28746fc43bc79710019d2fc69e8260547ddd0708a6b4b0e96ef8fb8b237084d24b7fac834161f71878baae2a0b365c9eac378d7611e6ae1c25926c8",
+      "hash_meta": "dfaf6b4357d416dae40e16ff4524c4da63b6091a0faeba62167557813a4f94b3",
+      "seqno": 2232611
+    },
+    "service": {
+      "hostname": "tomgeekery.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1520983583,
+  "expire_in": 504576000,
+  "prev": "4963a8c6fcc288f92f11e0d0d9a7804bd4d24b977b246bc640866d306ae9e3be",
+  "seqno": 31,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/ymedVcEjTGyG85OUmG8Ftxub6Ibr+aNUc/vRyFRBB8Kp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZTExNTA1ZmMwNjUwOTJlYTFjNWRkZGQ5NzBjMmNmNmE2YTE1Y2IxN2FkNTI4NzhmZWFhZjViMTVhNTIxMzE3YTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZmYyOTllNzU1NzA0OGQzMWIyMWJjZTRlNTI2MWJjMTZkYzZlNmZhMjFiYWZlNjhkNTFjZmVmNDcyMTUxMDQxZjBhIiwidWlkIjoiMWEwYjA4MDU0YjEzYjY4MjgyMTNjNDg4NjEzYjFlMDAiLCJ1c2VybmFtZSI6InRvbWdlZWtlcnkifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MjA5ODM1NjgsImhhc2giOiJiZDgxOTY1MGEyODc0NmZjNDNiYzc5NzEwMDE5ZDJmYzY5ZTgyNjA1NDdkZGQwNzA4YTZiNGIwZTk2ZWY4ZmI4YjIzNzA4NGQyNGI3ZmFjODM0MTYxZjcxODc4YmFhZTJhMGIzNjVjOWVhYzM3OGQ3NjExZTZhZTFjMjU5MjZjOCIsImhhc2hfbWV0YSI6ImRmYWY2YjQzNTdkNDE2ZGFlNDBlMTZmZjQ1MjRjNGRhNjNiNjA5MWEwZmFlYmE2MjE2NzU1NzgxM2E0Zjk0YjMiLCJzZXFubyI6MjIzMjYxMX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ0b21nZWVrZXJ5Lm5ldCIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ1In0sImN0aW1lIjoxNTIwOTgzNTgzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjQ5NjNhOGM2ZmNjMjg4ZjkyZjExZTBkMGQ5YTc4MDRiZDRkMjRiOTc3YjI0NmJjNjQwODY2ZDMwNmFlOWUzYmUiLCJzZXFubyI6MzEsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA+Ikm0q/MifkpnCmAcKT6hFwtkc133lYXuF8KmR+HLXKgmpZxG2vODasoKhIsu384b6FT0JhZBN0ncqenbEP5DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE+W2P+LgVNVfdWvcdU5zKqNk0svk6O8dKuc+BX00Pkto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tomgeekery
+
+==================================================================
